@@ -1,2 +1,3 @@
 # Tarea-1-SEP-A
- Lineas de  transmision
+ Sergio Camilo Rojas
+ Alan Rodríguez Ayala
