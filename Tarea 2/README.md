@@ -6,13 +6,13 @@ Este análisis se enfoca en el estudio de sistemas eléctricos de potencia utili
 
 Configuración Inicial:
 
-Importación de bibliotecas necesarias como pandapower, numpy, y pandas.
+Importación de bibliotecas necesarias como pandapower, numpy, y pandas.\
 Creación de una red vacía y definición de las barras del sistema.
 
 
 Adición de Componentes:
 
-Transformadores, generadores y líneas se añadieron a la red para completar el modelo.
+Transformadores, generadores y líneas se añadieron a la red para completar el modelo.\
 Se definieron y ubicaron las cargas en las diferentes barras del sistema.
 
 
@@ -23,8 +23,8 @@ El flujo de carga se ejecutó utilizando pandapower y se obtuvo la matriz de adm
 
 Implementación del Método de Newton-Raphson:
 
-Se implementó el método de Newton-Raphson para resolver el sistema de ecuaciones no lineales.
-Se calcularon las potencias activas y reactivas inyectadas en cada barra.
+Se implementó el método de Newton-Raphson para resolver el sistema de ecuaciones no lineales.\
+Se calcularon las potencias activas y reactivas inyectadas en cada barra.\
 Se construyó y resolvió la matriz jacobiana para encontrar las correcciones necesarias en las tensiones y ángulos de fase.
 
 
